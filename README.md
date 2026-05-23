@@ -2,6 +2,8 @@
 
 A complete data analytics project that explores global suicide trends using **SQL and Power BI**. This project focuses on identifying patterns across **years, countries, gender, age groups, and generations**.
 
+**Working Demo :** https://youtu.be/zSlStUf5ck8
+
 ---
 
 ## 📌 Project Overview
